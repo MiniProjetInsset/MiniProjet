@@ -1,0 +1,2 @@
+serviceClass: org.insset.client.service.ExempleService
+path: 15B11C2B3F16BAEAB826DBF9532DAC4E.gwt.rpc

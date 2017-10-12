@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="calculatorInsset">
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='org.insset.calculatorInsset' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/calculatorInsset/exemple" class="org.insset.server.ExempleServiceImpl" />
+
+</module>
